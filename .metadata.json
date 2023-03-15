@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "rtemps",
+    "package": "usefun",
     "oncran": true
   },
   {
-    "package": "usefun",
+    "package": "rtemps",
     "oncran": true
   }
 ]
