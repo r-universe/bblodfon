@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CoxBoost"]
+	path = CoxBoost
+	url = https://github.com/cran/CoxBoost
 [submodule "fastVoteR"]
 	path = fastVoteR
 	url = https://github.com/bblodfon/fastvoter
